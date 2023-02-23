@@ -1,2 +1,3 @@
 # docker-basic
-Dockerify a node.js app
+A basic node application with a dockerfile.
+Creates a docker image and containerize the application.
